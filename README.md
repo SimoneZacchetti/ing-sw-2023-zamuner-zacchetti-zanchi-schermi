@@ -126,6 +126,8 @@ java -jar server.jar [configFilePath]
 Se non specificato nessun percorso, il valore di default di confiFilePath è _GameConstant.json_, il quale deve essere
 presente nella stessa cartella dell'eseguibile del server.
 
+## Valutazione 30 / 30
+
 ## Componenti del gruppo
 
 - [__Matteo Zamuner__](https://github.com/matteozamu)
